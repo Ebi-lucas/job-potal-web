@@ -1,0 +1,1 @@
+A website development project involves a collaborative team effort to design, build, and maintain a website.Each team member contributes their expertise in areas such as front-end development, back-end development,and design to deliver a functional and visually appealing website.
