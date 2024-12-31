@@ -47,12 +47,6 @@ header{
     color: white;
     transition: 0.3s;
 }
-#navbar #menu li a:hover{
-  background-color:#0A66C2;
-  color:white;
-  transition: 0.3s;
-
-}
  
  .employer{
    margin-right: 20px;
